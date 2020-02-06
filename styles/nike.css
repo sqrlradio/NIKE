@@ -1,0 +1,86 @@
+body {
+  background-image: url("https://mms.businesswire.com/media/20160802005760/en/537664/5/NIKE%2B_HERO%5B1%5D_copy.jpg");
+  background-repeat: no repeat; 
+}
+
+#header-img {
+    width: 120px;
+    padding: 10px
+}
+ul {
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+#video {
+  padding: 25px; 
+  border: 10px;
+  border-style: solid; 
+  border-width: 80px;
+  margin: 120px;
+  display: flex;
+  }
+
+}
+
+h1 {
+ 
+}
+
+#title {
+ 
+  color: white;
+  font-family: bondoni;
+  font-weight: 500;
+}
+
+p {
+      font-size: 15px;
+}
+h2 {
+      font-size: 30px;
+      color: white;
+      font-family: bondoni;
+      font-weight: 500;
+      display: block;
+      text-align: center;
+      padding: 10px;
+  }
+
+p3 {
+      color: white;
+      float: center;
+      border: 10px;
+      border-style: solid;
+      padding: 15px;
+      
+}
+
+#form {
+  text-align: center;
+}
+
+#sl {
+  color: white;
+  font-size: 25px;
+  
+}
+@media (max-height: 800px) {
+    p {
+      font-size: 10px;
+    }
+  }
+}
+
